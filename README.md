@@ -22,10 +22,10 @@ https://github.com/SleepingJS-git/z-vah-7
 Zombie⁵:
 https://github.com/SleepingJS-git/zombie-5
 
-Plants vs Robots:
+Plants vs Robots (Unrecoverable):
 https://github.com/SleepingJS-git/plants-vs-robots
 
-First Person Puncher:
+First Person Puncher (Unrecoverable):
 https://github.com/SleepingJS-git/first-person-puncher
 
 
