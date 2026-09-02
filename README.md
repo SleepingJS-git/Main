@@ -1,5 +1,5 @@
 # SleepingJS Games Repo
-I'll be pushing my games one by one. All the games came from a private repo.
+I'll be pushing my games one by one. Most the games came from a private repo.
 
 Scrum
 https://github.com/SleepingJS-git/Scrum
